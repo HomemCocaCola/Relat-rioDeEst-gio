@@ -1,0 +1,235 @@
+\setcounter{page}{0}
+
+\setcounter{page}{0}
+
+\pagebreak
+
+\setcounter{page}{0}
+# Sumário
+
+\pagebreak
+
+\setcounter{page}{0}
+
+# Agradecimento
+
+\pagebreak
+
+\setcounter{page}{0}
+
+# Introdução
+
+\setcounter{page}{0}
+
+## Enquadramento Empresarial
+
+A Filmservice International, com sede em Viena, Áustria, é a maior organizadora de festivais de filmes corporativos na Europa. Sob a liderança de Alexander V. Kammel, a empresa organiza vários eventos prestigiosos, incluindo os prémios ‘AutoVision Awards’ em Munique a cada dois anos, os ‘Internationale Wirtschaftsfilmtage’ em Viena, os prêmios anuais Cannes Corporate Media & TV Awards em Cannes e os US International Awards em Los Angeles. Além disso, Alexander V. Kammel é o cofundador e diretor do festival Grand Prix CIFFT, que reconhece os melhores filmes de turismo do mundo. Ele também atua como presidente dos Arquivos Austríacos para médias audiovisuais corporativas, educacionais e culturais, e organiza o ‘Staatspreis Wirtschaftsfilm’.
+
+Eu fui inserido, no escritório local da empresa, de maneira a incentivar a cooperação entre todos da empresa. Fui a uma entrevista onde falei das minhas capacidades e habilidades e também expliquei a razão por entrar no estágio com eles. Depois de um dia de preparação do material por ambas as partes, eu comecei a estagiar. Todos na empresa tem acesso à sua própria estação de trabalho e foi o mesmo para mim. Foi-me oferecido um computador e um espaço para montar o meu próprio escritório, ao lado dos demais empregados. Tive a liberdade de fazer a organização da forma que considerava melhor. A minha coordenadora e os demais empregados da empresa, estavam sempre disponíveis para resolver as minhas dúvidas e eu as deles. Isto deve-se ao facto de todos na empresa procurarem o trabalho em conjunto, onde cada um pode se focar naquilo que é melhor e também a ajudar os outros. Isto tem grandes resultados não só no ambiente de trabalho como também para com a eficácia do trabalho.
+
+\pagebreak
+
+# Estado de Arte
+
+## Open Source
+
+### Definição
+
+Software de código aberto (Open Source) refere-se a software distribuído ao abrigo de licenças que concedem aos utilizadores acesso ao código-fonte, permitindo-lhes estudá-lo, modificá-lo e redistribuí-lo livremente[@androutsellis-theotokis_open_2010]. Este conceito permite a uma comunidade colaborativa de programadores e utilizadores melhorar coletivamente a funcionalidade e a qualidade do software. As licenças de código aberto variam nos seus requisitos relativamente à distribuição de modificações, com algumas a exigirem que os trabalhos derivados sejam também de código aberto, enquanto outras permitem modificações proprietárias. O seu aparecimento teve um impacto significativo em vários sectores, incluindo o desenvolvimento de software, a inovação em hardware, o meio académico, a economia em geral e o desenvolvimento de websites[@androutsellis-theotokis_open_2010]. Ao democratizar a tecnologia e a inovação, os modelos de código aberto oferecem oportunidades valiosas para a investigação, o envolvimento dos estudantes e o desenvolvimento de novos modelos empresariais e de software [@androutsellis-theotokis_open_2010].
+
+A origem do software de código aberto remonta aos anos 50 e solidificou-se nos anos 70 e 80 com os esforços da cultura hacker, em particular através do projeto GNU iniciado por Richard Stallman [@jin_open_2018]. O conceito de código aberto gira em torno da ideia de partilhar e modificar livremente o código-fonte do software, em contraste com o software proprietário que restringe o acesso ao código-fonte [@jin_open_2018]. O movimento open source ganhou força com o desenvolvimento de projetos como o Linux, permitindo o trabalho colaborativo de software em comunidades globais. 
+
+- como evoluiu ao longo do tempo
+
+Ao longo do tempo, o software de código aberto evoluiu para uma força dominante em vários sectores, incluindo a computação integrada, os dispositivos móveis e a nuvem, influenciando tanto o panorama tecnológico como as perceções culturais do desenvolvimento de software. 
+
+
+
+- Core Principles
+- Diferenças para Software Proprietário
+- como é desenvolvido, mantido e distribuido
+
+
+
+
+### Open Source vs. Free Software
+
+- diferenças nas licenças, ownership e controlo
+
+### Benefícios do Open Source
+
+- Mais costumizável - utilizadores podem modificar e costumizar o código conforme os use cases deles
+- envolvimento da comunidade - traz bug fixing, features request, e melhorias num geral
+- cost effective - é uma opção barata para indivíduos ou organizações
+
+### História do Open Source
+
+- primeiros dias com a criação do GNU do Torvald e o Linux com o Linus
+- ganhou popularidade entre 1990 e 2000 com o surgimento e popularidade das comunidades online e dos projetos colaborativos
+
+### Evolução da Filosofia Open Source
+
+- como o termo open source evoluiu ao ser um termo mais neutro do que free software
+- falar dos business models open source como a red hat, mysql e o wordpress conseguiriam monetizar os seus projetos
+- mudanças nas licenças
+- rise of github
+- impacto do cloud computing no desenvolvimento open source
+
+### Impacto no Desenvolvimento de Software ???
+
+- aumentou a colaboração
+- acelarou inovação
+- democratização ao acesso a tecnologia (programas open source em africa?)
+- muitas empresas adotam tecnologias open source para se manter competitivas
+- mais qualidade e reliability - como os programas open source são mais estáveis e reliable devido ao feedback e teste da comunidade
+
+## CMS
+
+### Definição
+
+- o que é um cms
+- para que serve
+- como se distingue dos outros softwares
+- como ajuda a dar manage ao conteúdo do website
+- falar que existem cms open source, proprietárias, hybrid????
+- Uma breve história do desenvolvimento do CMS, destacando os principais marcos e inovações.
+- Discussões sobre os prós e os contras da utilização de um CMS específico, tais como as compensações entre a facilidade de utilização e as opções de personalização.
+- Análise da forma como as diferentes plataformas CMS se adaptam a sectores ou nichos específicos (por exemplo, comércio eletrónico, blogues).
+- Uma secção sobre o futuro do desenvolvimento de CMS, incluindo tendências, tecnologias emergentes e potenciais alterações.
+
+### Tipos de CMSs
+
+- diferentes categorias de CMS
+- tradicional (wordpress - talvez arranjar outro exemplo)
+- headless CMS (contentful)
+- decoupled cms (adobe experience manager)
+- talvez falar de open source e proprietary cms e hybrid?
+
+### Vantagens de usar um CMS
+
+- facilidade de criação de contéudo e de management do mesmo
+- Scalability and flexibility
+- melhora segurança e maintenance e update
+- melhor colaboração e worflow
+
+### Alternativas cms open source no mercado atual
+
+- wordpress
+- joomla
+- drupal
+- magento (e-commerce)
+- ghost
+
+organizar numa tabela
+
+- licensign
+- ease of use
+- customization
+- community support
+- security
+- scalability
+- integration
+- development
+- cost
+- documentation and tutorials
+
+### porquê wordpress?
+
+- populariedade
+- suporte da comunidade
+- scalability, and flexibility
+- facilidade de uso para iniciantes
+- biblioteca enorme com plugins e temas
+ - updates constantes e melhorias pela comunidade
+
+## WordPress
+
+
+### Definição e História do Wordpress
+
+- origens do wordpress
+- fundadores do wordpress
+- como evoluiu ao longo dos anos
+- core features (php based e integração com database MySQL)
+- o que é o wordpress (pedir para não repetir aquilo que já foi falado)
+
+### Arquitetura do wordpress
+
+- aspetos técnicos do wordpress
+- request-response cycle
+- mecânicas de cache
+- como trabalha os inputs do utilizador
+
+### Customização e Extensibilidade
+
+- plugins
+- temas
+- código php
+- importância de otimização de código para melhorar performance
+- deixar responsivo??
+
+### Melhores Práticas de Segurança
+
+- proper password management
+- updates regulares
+- plugins de segurança como wordfence e malcare
+
+### Melhores Práticas para Construir um Website Open Source com WordPress
+
+- design responsivo (mobile first e deve adaptar em diferentes ecrãs)
+- otimização de imagens (compressão de imagens, lazy loading, formatos de imagem otimizado)
+- organização do conteúdo (estrutura organizada de contéudo, com tags, categorias, descrições metas. ajuda os search engines a crawl pelo site melhorando a user experience
+- caching e otmização (cache de páginas, posts, e outros conteúdos para reduzir load times. também falar de minifying code, comprimir ficheiros e leveraging browser caching)
+- segurança e updates (importância de updates regulares, patches de segurança e plugin management. desabilitar plugins datados, usar passwords fortes e monitorizar malware)
+- performance monitoring (GTmetrix, Pingdom, ou WebPageTest. como identificar bootlenecks e otimizar a performance do website )
+- acessibilidade e SEO (WCAG guidelines, SEO. Dicas de como criar conteúdo acessível, usar semantic HTML, otimizar tags meta)
+- backups e recovery (importância de backups regulares, guia de estratégias de backup (3,2,1 rule?) plugins como updraftPlus e VaultPress para automatizar backups e data recovery em casos de emergência)
+- version control e git (conceito de controlo de versão com git e como pode ajudar devs a dar manage em mudanças de código, track revisions e colaborar com outros)
+
+### Exemplos reais de websites open source bem sucedidos criados com o WordPress
+
+- mostrar features únicas
+- sucessos
+- desafios
+
+# Desenvolvimento do Projeto
+
+## Descrição do Projeto
+
+- Descrever sucintamente a empresa, as suas metas e os objectivos relacionados com o projeto de desenvolvimento do website.
+- Mencionar a finalidade do projeto e a forma como se alinha com a estratégia global da empresa.
+
+### Contexto
+
+- Fornecer algum contexto sobre o estado atual do sítio Web da empresa (se aplicável) ou a necessidade de um novo sítio Web.
+  - Explicar como o website antigo era muito datado e não apresentava toda a informação da empresa.
+  - O design do site antigo, não seguia a identidade gráfica da empresa
+  - Não tinha as melhores práticas de mobile first
+- Discuta quaisquer desafios ou limitações específicos que tenham de ser abordados durante o projeto.
+
+### Objetivos
+
+- Indicar claramente os objectivos do projeto, incluindo o que se esperava do seu trabalho e de que forma este beneficiaria a empresa.
+  - A empresa queria atualizar o website como forma de o voltarem a utilizar
+  - Eles queriam que fosse fácil mudar informações do website, portanto, era necessário utilizar algum tipo de CMS no contéudo
+  - A empresa já tinha experiência com o WordPress, portanto, eles acabaram por optar por uma solução que já conheciam
+  - Antes de partir para o desenvolvimento do website em si, a empresa queria ter acesso a protótipos, para assim todos na empresa compreenderem o rumo que o site tomaria
+
+
+### Âmbito
+
+- Descreva o âmbito do projeto, incluindo as características, as funcionalidades e os elementos de design que pretendia fornecer.
+
+### Cronograma
+
+### Metodologia
+
+
+## Desenvolvimento de Protótipos em Figma
+
+## Solução em Wordpress
+
+## Refinamento
+
+## Final
+

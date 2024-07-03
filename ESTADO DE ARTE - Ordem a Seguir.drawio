@@ -1,0 +1,271 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T12:28:12.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MMmtOIiIF2-FM1l_yUuW" version="24.6.2" type="device">
+  <diagram name="Page-1" id="a5WbGdkaHkNEKEdEQBNE">
+    <mxGraphModel dx="4780" dy="3613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xoEC3FPh819zjStYz-pt-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xoEC3FPh819zjStYz-pt-1" target="xoEC3FPh819zjStYz-pt-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-48" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-1" target="xoEC3FPh819zjStYz-pt-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-80" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-1" target="xoEC3FPh819zjStYz-pt-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-1" value="ESTADO DE ARTE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-50" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-2" target="xoEC3FPh819zjStYz-pt-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-2" value="Introdução&lt;div&gt;-&amp;nbsp;The rise of open-source software has revolutionized the way we develop and maintain websites.&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Problem Statement: With so many options available, choosing the right content management system (CMS) for your website can be overwhelming.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="300" width="810" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-4" target="xoEC3FPh819zjStYz-pt-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-4" value="Open Source" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="590" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-12" target="xoEC3FPh819zjStYz-pt-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-12" value="Definição" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="600" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-14" target="xoEC3FPh819zjStYz-pt-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-14" value="Open Source vs. Free Software" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="540" y="800" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-16" target="xoEC3FPh819zjStYz-pt-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-16" value="- O que é Open Source&lt;div&gt;- origem&lt;/div&gt;&lt;div&gt;- como evoluiu ao longo do tempo&lt;br&gt;&lt;div&gt;- Core Principles&lt;/div&gt;&lt;div&gt;- Diferenças para Software Proprietário&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- como é desenvolvido, mantido e distribuido&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="505" y="650" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-21" target="xoEC3FPh819zjStYz-pt-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-21" value="- diferenças nas licenças, ownership e controlo" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="880" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-23" target="xoEC3FPh819zjStYz-pt-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-23" value="Benefícios do Open Source" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="550" y="960" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-26" target="xoEC3FPh819zjStYz-pt-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-26" value="- Mais costumizável - utilizadores podem modificar e costumizar o código conforme os use cases deles&lt;div&gt;- envolvimento da comunidade - traz bug fixing, features request, e melhorias num geral&lt;/div&gt;&lt;div&gt;- cost effective - é uma opção barata para individuos ou organizações&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1040" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-28" target="xoEC3FPh819zjStYz-pt-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-28" value="História do Open Source" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-38" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-30" target="xoEC3FPh819zjStYz-pt-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-30" value="- primeiros dias com a criação do GNU do Torvald e o Linux com o Linus&lt;div&gt;- ganhou populariedade entre 1990 e 2000 com o surgimento e popularieaded das comunidades online e dos projetos colaborativos&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="1230" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-51" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-32" target="xoEC3FPh819zjStYz-pt-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-32" value="&lt;div&gt;- Utilizar analogias ou metáforas para explicar conceitos técnicos complexos de software de fonte aberta.&lt;/div&gt;&lt;div&gt;- Incluir exemplos do mundo real de empresas que beneficiaram da utilização de software de fonte aberta (por exemplo, Google, Facebook).&lt;/div&gt;&lt;div&gt;- Discutir os desafios e as limitações enfrentados pelos projectos de software de fonte aberta, como a capacidade de manutenção, a escalabilidade e as questões de segurança.&lt;/div&gt;&lt;div&gt;- Destacar o papel do software de fonte aberta em sectores ou domínios específicos (por exemplo, cuidados de saúde, finanças).&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="-100" width="960" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-36" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-35" target="xoEC3FPh819zjStYz-pt-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-35" value="&lt;div&gt;- Adicione mais pormenores e exemplos: Desenvolva cada ponto do esquema, fornecendo exemplos concretos, estudos de caso ou cenários do mundo real. Isto não só acrescentará páginas, como também tornará o seu ensaio mais cativante e informativo.&lt;/div&gt;&lt;div&gt;- Inclua subtópicos e argumentos de apoio: Divida os tópicos maiores em subtópicos mais pequenos e forneça provas para apoiar as suas afirmações. Isto criará mais conteúdo sem sacrificar a clareza.&lt;/div&gt;&lt;div&gt;- Utilize transições e ligações: Ligue as suas ideias utilizando palavras, frases ou sentenças de transição. Isto ajuda-o a ligar uma secção à seguinte, fazendo com que o seu ensaio flua melhor e pareça mais longo.&lt;/div&gt;&lt;div&gt;- Incorpore fontes e pesquisas adicionais: Consulte documentos académicos, relatórios da indústria ou opiniões de especialistas para apoiar os seus argumentos e dar credibilidade ao seu trabalho. Cite corretamente estas fontes para evitar o plágio.&lt;/div&gt;&lt;div&gt;- Escreva em pormenor sobre aspectos específicos: Concentre-se em aspectos específicos do software de código aberto, do WordPress ou da criação de sítios Web que mais lhe interessam. Isto permitir-lhe-á aprofundar esses tópicos e produzir mais conteúdo.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="83.4375" width="1410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-40" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-37" target="xoEC3FPh819zjStYz-pt-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-37" value="Evolução da Filosofia Open Source" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1320" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-42" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-39" target="xoEC3FPh819zjStYz-pt-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-39" value="- como o termo open source evoluiu ao ser um termo mais neutro do que free software&lt;div&gt;- falar dos business models open source como a red hat, mysql e o wordpress conseguiriam monetizar os seus projetos&lt;/div&gt;&lt;div&gt;- mudanças nas licensas&lt;/div&gt;&lt;div&gt;- rise of github&lt;/div&gt;&lt;div&gt;- impacto do cloud computing no desenvolvimento open source&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1400" width="660" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-44" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="xoEC3FPh819zjStYz-pt-41" target="xoEC3FPh819zjStYz-pt-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-41" value="Impacto no Desenvolvimento de Software ???" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1540" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-43" value="- aumentou a colaboração&lt;div&gt;- acelarou inovação&lt;/div&gt;&lt;div&gt;- democratização ao acesso a tecnologia (programas open source em africa?)&lt;/div&gt;&lt;div&gt;- muitas empresas adotam tecnologias open source para se manter competitivas&lt;/div&gt;&lt;div&gt;- mais qualidade e reliability - como os programas open source são mais estaveis e reliable devido ao feedback e teste da comunidade&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="1620" width="740" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-53" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-45" target="xoEC3FPh819zjStYz-pt-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-45" value="CMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1425" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-57" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-52" target="xoEC3FPh819zjStYz-pt-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-52" value="Definição" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1415" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-59" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-56" target="xoEC3FPh819zjStYz-pt-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-56" value="&lt;div&gt;- o que é um cms&lt;/div&gt;&lt;div&gt;- para que serve&lt;/div&gt;&lt;div&gt;- como se distigue dos outros softwares&lt;/div&gt;&lt;div&gt;- como ajuda a dar manage ao contéudo do website&lt;/div&gt;&lt;div&gt;- falar que existem cms open source, proprietárias, hybrid????&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- Uma breve história do desenvolvimento do CMS, destacando os principais marcos e inovações.&lt;/div&gt;&lt;div&gt;- Exemplos de sítios Web ou empresas de sucesso que utilizam opções específicas de CMS.&lt;/div&gt;&lt;div&gt;- Discussões sobre os prós e os contras da utilização de um CMS específico, tais como as compensações entre a facilidade de utilização e as opções de personalização.&lt;/div&gt;&lt;div&gt;- Análise da forma como as diferentes plataformas CMS se adaptam a sectores ou nichos específicos (por exemplo, comércio eletrónico, blogues).&lt;/div&gt;&lt;div&gt;- Uma secção sobre o futuro do desenvolvimento de CMS, incluindo tendências, tecnologias emergentes e potenciais alterações.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="985" y="650" width="930" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-61" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-58" target="xoEC3FPh819zjStYz-pt-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-58" value="Tipos de CMSs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="890" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-63" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-60" target="xoEC3FPh819zjStYz-pt-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-60" value="&lt;div&gt;- diferentes categorias de CMS&lt;/div&gt;&lt;div&gt;- tradicional (wordpress - talvez arranjar outro exemplo)&lt;/div&gt;&lt;div&gt;- headless CMS (contentful)&lt;/div&gt;&lt;div&gt;- decoupled cms (adobe experience manager)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- talvez falar de open source e proprietary cms e hybrid?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="970" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-65" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-62" target="xoEC3FPh819zjStYz-pt-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-62" value="Vantagens de usar um CMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1365" y="1120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-67" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-64" target="xoEC3FPh819zjStYz-pt-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-64" value="&lt;div&gt;- facilidade de criação de contéudo e de management do mesmo&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Scalability and flexibility&lt;/div&gt;&lt;div&gt;- melhora segurança e maintenance e update&lt;/div&gt;&lt;div&gt;- melhor colaboração e worflow&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="1200" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-69" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-66" target="xoEC3FPh819zjStYz-pt-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-66" value="Alternativas cms open source no mercado atual" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1320" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-73" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-68" target="xoEC3FPh819zjStYz-pt-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-68" value="&lt;div&gt;- joomla&lt;/div&gt;&lt;div&gt;- drupal&lt;/div&gt;&lt;div&gt;- magento (e-commerce)&lt;/div&gt;&lt;div&gt;- ghost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://alternativeto.net/category/business-and-commerce/cms/&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1400" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-75" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-71" target="xoEC3FPh819zjStYz-pt-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-71" value="&lt;div&gt;&lt;div&gt;1. **Licensing**: What is the licensing agreement like? Is it permissive (e.g., MIT License), copyleft (e.g., GPL), or proprietary?&lt;/div&gt;&lt;div&gt;2. **Ease of Use**: How user-friendly is each CMS for beginners and non-technical users?&lt;/div&gt;&lt;div&gt;3. **Customization**: Can you customize the look, feel, and functionality of each CMS using themes, templates, and plugins/extensions?&lt;/div&gt;&lt;div&gt;4. **Community Support**: What kind of community support does each CMS have? Are there active forums, documentation, and tutorials available?&lt;/div&gt;&lt;div&gt;5. **Security**: How secure are each of the CMSs against common web threats like SQL injection, cross-site scripting (XSS), and malware?&lt;/div&gt;&lt;div&gt;6. **Scalability**: Can each CMS handle high traffic, large datasets, or complex applications?&lt;/div&gt;&lt;div&gt;7. **Integration**: What integrations are possible with third-party services like e-commerce platforms, social media, or payment gateways?&lt;/div&gt;&lt;div&gt;8. **Development**: How easy is it to develop custom extensions or plugins for each CMS?&lt;/div&gt;&lt;div&gt;9. **Cost**: Are there any costs associated with using each CMS, such as hosting fees or plugin licenses?&lt;/div&gt;&lt;div&gt;10. **Documentation and Tutorials**: What kind of documentation and tutorials are available for each CMS?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To organize the information in a table, you could create a comparison matrix like this:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;| Feature | WordPress | Joomla | Drupal |&lt;/div&gt;&lt;div&gt;| --- | --- | --- | --- |&lt;/div&gt;&lt;div&gt;| Licensing | Open-source (GPL) | Open-source (OFL) | Open-source (GPL) |&lt;/div&gt;&lt;div&gt;| Ease of Use | High | Medium | Low |&lt;/div&gt;&lt;div&gt;| Customization | High | High | High |&lt;/div&gt;&lt;div&gt;| Community Support | Excellent | Good | Good |&lt;/div&gt;&lt;div&gt;| Security | Strong | Good | Good |&lt;/div&gt;&lt;div&gt;| Scalability | Excellent | Good | Good |&lt;/div&gt;&lt;div&gt;| Integration | Extensive | Limited | Limited |&lt;/div&gt;&lt;div&gt;| Development | Easy | Difficult | Challenging |&lt;/div&gt;&lt;div&gt;| Cost | Free (open-source) | Free (open-source) | Free (open-source) |&lt;/div&gt;&lt;div&gt;| Documentation and Tutorials | Excellent | Good | Good |&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="1550" width="810" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-77" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-74" target="xoEC3FPh819zjStYz-pt-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-74" value="porquê wordpress?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="1385" y="1970" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-76" value="- populariedade&lt;div&gt;- suporte da comunidade&lt;/div&gt;&lt;div&gt;-&amp;nbsp;scalability, and flexibility&lt;/div&gt;&lt;div&gt;- facilidade de uso para iniciantes&lt;/div&gt;&lt;div&gt;- biblioteca enorme com plugins e temas&lt;/div&gt;&lt;div&gt;&amp;nbsp;- updates constantes e melhorias pela comunidade&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="2050" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xoEC3FPh819zjStYz-pt-78" target="Dna3wmZNgDt1pmkZ-JFG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-78" value="Wordpress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2420" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-82" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xoEC3FPh819zjStYz-pt-81" target="xoEC3FPh819zjStYz-pt-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoEC3FPh819zjStYz-pt-81" value="&lt;div&gt;Perguntar ao GPT para aumentar os pontos a serem falados, com base nos que já tenho&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Algo como, ah, eu tenho estes títulos e cada um tem estes temas. O que achas interessante acrescentar ao título 4 para aumentar a riqueza do texto?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="208.5" y="-255" width="820" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-1" target="Dna3wmZNgDt1pmkZ-JFG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-1" value="Definição e História do Wordpress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2355" y="570" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-4" target="Dna3wmZNgDt1pmkZ-JFG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-4" value="- origens do wordpress&lt;div&gt;- fundadores do wordpress&lt;/div&gt;&lt;div&gt;- como evoluiu ao longo dos anos&lt;/div&gt;&lt;div&gt;- core features (php based e integração com database MySQL)&lt;/div&gt;&lt;div&gt;- o que é o wordpress (pedir para não repetir aquilo que já foi falado)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2265" y="650" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-6" target="Dna3wmZNgDt1pmkZ-JFG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-6" value="Arquitetura do wordpress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="790" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-9" target="Dna3wmZNgDt1pmkZ-JFG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-9" value="- aspetos técnicos do wordpress&lt;div&gt;- request-response cycle&lt;/div&gt;&lt;div&gt;- mecânicas de cache&lt;/div&gt;&lt;div&gt;- como trabalha os inputs do utilizador&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2345" y="870" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-11" target="Dna3wmZNgDt1pmkZ-JFG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-11" value="Costumização e Extensibilidade" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="990" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-13" target="Dna3wmZNgDt1pmkZ-JFG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-13" value="- plugins&lt;div&gt;- temas&lt;/div&gt;&lt;div&gt;- código php&lt;/div&gt;&lt;div&gt;- importância de otimização de código para melhorar performance&lt;/div&gt;&lt;div&gt;- deixar responsivo??&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2275" y="1070" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-15" target="Dna3wmZNgDt1pmkZ-JFG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-15" value="Melhores Práticas de Segurança" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="1210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-17" target="Dna3wmZNgDt1pmkZ-JFG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-17" value="- proper password management&lt;div&gt;- updates regulares&lt;/div&gt;&lt;div&gt;- plugins de segurança como wordfence e malcare&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2315" y="1290" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-19" target="Dna3wmZNgDt1pmkZ-JFG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-19" value="Melhores Práticas para Construir um Website Open Source com WordPress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2245" y="1400" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-21" target="Dna3wmZNgDt1pmkZ-JFG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-21" value="- design responsivo (mobile first e deve adaptar em diferentes ecrãs)&lt;div&gt;- otimização de imagens (compressão de imagens, lazy loading, formatos de imagem otimizado)&lt;/div&gt;&lt;div&gt;- organização do conteúdo (estrutura organizada de contéudo, com tags, categorias, descrições metas. ajuda os search engines a crawl pelo site melhorando a user experience&lt;/div&gt;&lt;div&gt;- caching e otmização (cache de páginas, posts, e outros conteúdos para reduzir load times. também falar de minifying code, comprimir ficheiros e leveraging browser caching)&lt;/div&gt;&lt;div&gt;- segurança e updates (importância de updates regulares, patches de segurança e plugin management. desabilitar plugins datados, usar passwords fortes e monitorizar malware)&lt;/div&gt;&lt;div&gt;- performance monitoring (GTmetrix, Pingdom, ou WebPageTest. como identificar bootlenecks e otimizar a performance do website )&lt;/div&gt;&lt;div&gt;- acessibilidade e SEO (WCAG guidelines, SEO. Dicas de como criar conteúdo acessível, usar semantic HTML, otimizar tags meta)&lt;/div&gt;&lt;div&gt;- backups e recovery (importância de backups regulares, guia de estratégias de backup (3,2,1 rule?) plugins como updraftPlus e VaultPress para automatizar backups e data recovery em casos de emergência)&lt;/div&gt;&lt;div&gt;- version control e git (conceito de controlo de versão com git e como pode ajudar devs a dar manage em mudanças de código, track revisions e colaborar com outros)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="1480" width="1130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-23" target="Dna3wmZNgDt1pmkZ-JFG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-23" value="Exemplos reais de websites open source bem sucedidos criados com o WordPress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2225" y="1670" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-25" value="- mostrar features únicas&lt;div&gt;- sucessos&lt;/div&gt;&lt;div&gt;- desafios&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1750" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dna3wmZNgDt1pmkZ-JFG-27" target="xoEC3FPh819zjStYz-pt-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dna3wmZNgDt1pmkZ-JFG-27" value="&lt;div&gt;Utilizar um estilo de escrita claro e conciso&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Divida temas complexos em secções mais pequenas e fáceis de gerir&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Forneça exemplos concretos ou estudos de caso para ilustrar os seus pontos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ofereça conselhos práticos e melhores práticas que os leitores possam aplicar aos seus próprios projectos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mantenha o tom informativo e de conversação, sem ser demasiado técnico ou opressivo&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="-495" width="590" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

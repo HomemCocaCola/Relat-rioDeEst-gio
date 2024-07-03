@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T18:47:46.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cwBoLdZvZXRkpOBnptwR" version="24.6.3" type="device">
+  <diagram name="Page-1" id="vKmhy2MMkvVaOJp_E4k7">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-1" target="ZHj_pTs00gF8dZAoCnam-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-1" value="Desenvolvimento do Projeto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="730" y="375" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-2" target="ZHj_pTs00gF8dZAoCnam-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-2" value="Descrição do Projeto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="750" y="455" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-5" target="ZHj_pTs00gF8dZAoCnam-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-5" value="&lt;div&gt;- Descrever sucintamente a empresa, as suas metas e os objectivos relacionados com o projeto de desenvolvimento do website.&lt;/div&gt;&lt;div&gt;- Mencionar a finalidade do projeto e a forma como se alinha com a estratégia global da empresa.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="535" width="710" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-7" target="ZHj_pTs00gF8dZAoCnam-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-7" value="Contexto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="780" y="625" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-10" target="ZHj_pTs00gF8dZAoCnam-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-10" value="&lt;div&gt;- Fornecer algum contexto sobre o estado atual do sítio Web da empresa (se aplicável) ou a necessidade de um novo sítio Web.&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Explicar como o website antigo era muito datado e não apresentava toda a informação da empresa.&lt;/div&gt;&lt;div&gt;&amp;nbsp; - O design do site antigo, não seguia a identidade gráfica da empresa&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Não tinha as melhores práticas de mobile first&lt;/div&gt;&lt;div&gt;- Discuta quaisquer desafios ou limitações específicos que tenham de ser abordados durante o projeto.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="705" width="710" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-12" target="ZHj_pTs00gF8dZAoCnam-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-12" value="Objetivos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="780" y="855" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-14" target="ZHj_pTs00gF8dZAoCnam-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-14" value="&lt;div&gt;&lt;div&gt;- Indicar claramente os objectivos do projeto, incluindo o que se esperava do seu trabalho e de que forma este beneficiaria a empresa.&lt;/div&gt;&lt;div&gt;&amp;nbsp; - A empresa queria atualizar o website como forma de o voltarem a utilizar&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Eles queriam que fosse fácil mudar informações do website, portanto, era necessário utilizar algum tipo de CMS no contéudo&lt;/div&gt;&lt;div&gt;&amp;nbsp; - A empresa já tinha experiência com o WordPress, portanto, eles acabaram por optar por uma solução que já conheciam&lt;/div&gt;&lt;div&gt;&amp;nbsp; - Antes de partir para o desenvolvimento do website em si, a empresa queria ter acesso a protótipos, para assim todos na empresa compreenderem o rumo que o site tomaria&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="935" width="960" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-16" target="ZHj_pTs00gF8dZAoCnam-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-16" value="Âmbito" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1075" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-18" target="ZHj_pTs00gF8dZAoCnam-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-18" value="&lt;div&gt;- Descreva o âmbito do projeto, incluindo as características, as funcionalidades e os elementos de design que pretendia fornecer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Nesta secção, deve descrever as características, funcionalidades e elementos de design que foram incluídos no sítio Web. Isso pode incluir:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. **Características principais**: Quais são as funções essenciais do sítio Web (por exemplo, formulário de contacto, blogue, integração de comércio eletrónico)?&lt;/div&gt;&lt;div&gt;2. **Componentes de design**: Que elementos de design implementou? (por exemplo, tipografia, esquema de cores, imagens)&lt;/div&gt;&lt;div&gt;3. **Funcionalidades**: Existem funcionalidades específicas que foram incorporadas ou integradas no sítio (por exemplo, design reativo, características de acessibilidade)?&lt;/div&gt;&lt;div&gt;4. **Integrações de terceiros**: Foram utilizados serviços de terceiros ou APIs no processo de desenvolvimento?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dicas:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Seja claro e conciso sobre o que foi incluído no âmbito do trabalho.&lt;/div&gt;&lt;div&gt;* Destaque quaisquer omissões ou limitações notáveis que tenham sido feitas para manter o projeto dentro do orçamento ou dos limites de tempo.&lt;/div&gt;&lt;div&gt;* Considere incluir capturas de ecrã, diagramas ou wireframes para ilustrar os componentes e as funcionalidades do design.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1155" width="940" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-20" target="ZHj_pTs00gF8dZAoCnam-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-20" value="Cronograma" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1435" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZHj_pTs00gF8dZAoCnam-23" target="ZHj_pTs00gF8dZAoCnam-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-23" value="Metodologia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1515" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHj_pTs00gF8dZAoCnam-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Nesta secção, deve descrever a abordagem adoptada no desenvolvimento do sítio Web. Isto pode incluir:&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. **Métodos de investigação**: Como recolheu informações sobre os objectivos da empresa, o público-alvo e as tendências do sector?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. **Processo de design**: Que princípios ou estilos de design seguiu? Criou wireframes, protótipos ou designs de alta fidelidade?&lt;/div&gt;&lt;div&gt;3. **Ferramentas e tecnologias de desenvolvimento**: Que linguagens de programação, estruturas ou sistemas de gestão de conteúdos (CMS) utilizou?&lt;/div&gt;&lt;div&gt;4. **Testes e garantia de qualidade**: Como é que garantiu que o sítio Web era estável, seguro e funcional em diferentes dispositivos e browsers?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dicas:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Seja específico sobre o seu processo de conceção e quaisquer iterações ou revisões que tenham ocorrido.&lt;/div&gt;&lt;div&gt;* Destaque quaisquer desafios técnicos notáveis que tenha enfrentado e como os ultrapassou.&lt;/div&gt;&lt;div&gt;* Mencione se trabalhou com equipas externas, freelancers ou colaboradores.&lt;/div&gt;&lt;div&gt;* Considere a possibilidade de incluir capturas de ecrã ou diagramas para ilustrar a sua metodologia.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1595" width="830" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
